@@ -1,4 +1,4 @@
-<H1Musicgroups Website</H1>
+<H1>Musicgroups Website</H1>
 
 <H2>Basic functions</H2>
 <P>Displays a list of randomly named musicgroups.</P>
